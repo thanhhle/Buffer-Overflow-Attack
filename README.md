@@ -1,5 +1,5 @@
 # Ultima_5-Hacking
-An application written in Python
+An application written in C
 
 ## Prerequisites
 You may not be able to complete this assignment on a modern operating system, as there are canaries built-in to modern shells (and kernels) to prevent such a thing from occurring. I would recommend using an older Linux distribution in a virtual machine for this assignment (something prior to Linux kernel version 2.4), but you are welcome to attempt this on a modern OS and see if you can get it to work.
